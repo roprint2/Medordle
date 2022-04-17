@@ -1,0 +1,112 @@
+<html lang="en" translate="no" data-darkreader-mode="dynamic" data-darkreader-scheme="dark" style=""><head><style class="darkreader darkreader--fallback" media="screen"></style><style class="darkreader darkreader--text" media="screen"></style><style class="darkreader darkreader--invert" media="screen"></style><style class="darkreader darkreader--inline" media="screen">[data-darkreader-inline-bgcolor] {
+  background-color: var(--darkreader-inline-bgcolor) !important;
+}
+[data-darkreader-inline-bgimage] {
+  background-image: var(--darkreader-inline-bgimage) !important;
+}
+[data-darkreader-inline-border] {
+  border-color: var(--darkreader-inline-border) !important;
+}
+[data-darkreader-inline-border-bottom] {
+  border-bottom-color: var(--darkreader-inline-border-bottom) !important;
+}
+[data-darkreader-inline-border-left] {
+  border-left-color: var(--darkreader-inline-border-left) !important;
+}
+[data-darkreader-inline-border-right] {
+  border-right-color: var(--darkreader-inline-border-right) !important;
+}
+[data-darkreader-inline-border-top] {
+  border-top-color: var(--darkreader-inline-border-top) !important;
+}
+[data-darkreader-inline-boxshadow] {
+  box-shadow: var(--darkreader-inline-boxshadow) !important;
+}
+[data-darkreader-inline-color] {
+  color: var(--darkreader-inline-color) !important;
+}
+[data-darkreader-inline-fill] {
+  fill: var(--darkreader-inline-fill) !important;
+}
+[data-darkreader-inline-stroke] {
+  stroke: var(--darkreader-inline-stroke) !important;
+}
+[data-darkreader-inline-outline] {
+  outline-color: var(--darkreader-inline-outline) !important;
+}
+[data-darkreader-inline-stopcolor] {
+  stop-color: var(--darkreader-inline-stopcolor) !important;
+}</style><style class="darkreader darkreader--variables" media="screen">:root {
+   --darkreader-neutral-background: #141516;
+   --darkreader-neutral-text: #dfd8ce;
+   --darkreader-selection-background: #094d9f;
+   --darkreader-selection-text: #f0ebe2;
+}</style><style class="darkreader darkreader--root-vars" media="screen"></style><style class="darkreader darkreader--user-agent" media="screen">html {
+    background-color: #191a1b !important;
+}
+html, body, input, textarea, select, button {
+    background-color: #191a1b;
+}
+html, body, input, textarea, select, button {
+    border-color: #766d5f;
+    color: #f0ebe2;
+}
+a {
+    color: #4093f2;
+}
+table {
+    border-color: #585d5d;
+}
+::placeholder {
+    color: #b7afa1;
+}
+input:-webkit-autofill,
+textarea:-webkit-autofill,
+select:-webkit-autofill {
+    background-color: #575b07 !important;
+    color: #f0ebe2 !important;
+}
+::selection {
+    background-color: #094d9f !important;
+    color: #f0ebe2 !important;
+}
+::-moz-selection {
+    background-color: #094d9f !important;
+    color: #f0ebe2 !important;
+}</style><meta charset="utf-8"><meta name="google" content="notranslate"><link rel="icon" href="/favicon.ico?v=3"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#5c7d48"><meta name="description" content="Guess the hidden word in 6 tries. You can also share your own word!"><meta property="og:title" content="Make Your Own Wordle"><meta property="og:type" content="website"><meta property="og:image" content="/socialshare.jpg?v=2"><meta property="og:description" content="Guess the hidden word in 6 tries. You can also share your own word!"><link rel="apple-touch-icon" href="/logo192.jpg"><link rel="canonical" href="https://mywordle.strivemath.com"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="https://mywordle.strivemath.com/socialshare.jpg"><meta name="twitter:title" content="Make and Share Your Own Wordle"><meta name="twitter:creator" content="@pallavmac"><link rel="manifest" href="/manifest.json"><title>Make Your Own Wordle</title><script defer="defer" src="/static/js/main.bc20ee95.js"></script><link href="/static/css/main.4b958cd2.css" rel="stylesheet"><style class="darkreader darkreader--sync" media="screen"></style><style id="_goober"> @keyframes go2264125279{from{transform:scale(0) rotate(45deg);opacity:0;}to{transform:scale(1) rotate(45deg);opacity:1;}}@keyframes go3020080000{from{transform:scale(0);opacity:0;}to{transform:scale(1);opacity:1;}}@keyframes go463499852{from{transform:scale(0) rotate(90deg);opacity:0;}to{transform:scale(1) rotate(90deg);opacity:1;}}@keyframes go1268368563{from{transform:rotate(0deg);}to{transform:rotate(360deg);}}@keyframes go1310225428{from{transform:scale(0) rotate(45deg);opacity:0;}to{transform:scale(1) rotate(45deg);opacity:1;}}@keyframes go651618207{0%{height:0;width:0;opacity:0;}40%{height:0;width:6px;opacity:1;}100%{opacity:1;height:10px;}}@keyframes go901347462{from{transform:scale(0.6);opacity:0.4;}to{transform:scale(1);opacity:1;}}.go4109123758{z-index:9999;}.go4109123758 > *{pointer-events:auto;}</style><style class="darkreader darkreader--sync" media="screen"></style><style type="text/css">body{
+  color: rgba(0, 0, 0, 0.85);
+  background-color: #fff;
+}
+
+.react-switch .react-switch-icon{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.react-switch-docusaurus .react-switch-icon{
+  font-size: 14px;
+}
+
+.react-switch > .react-switch-bg{
+  box-sizing: border-box;
+}
+
+.react-switch-github__light > .react-switch-bg{
+  border: 3px solid #d1d5da;
+}
+
+.react-switch-github__dark > .react-switch-bg{
+  border: 3px solid #3c1e70;
+}
+
+.react-switch-fluent__light > .react-switch-bg{
+  border: 1px solid #605e5c;
+}
+
+.react-switch-fluent__dark > .react-switch-bg{
+  border: 1px solid #0078d4;
+}
+
+</style><style class="darkreader darkreader--sync" media="screen"></style><meta name="darkreader" content="1a0857465cdef3077ef98a6afe079a1d"><style class="darkreader darkreader--override" media="screen"></style></head><body><noscript>You need to enable JavaScript to run this app.</noscript><div id="root"><div class="pt-4 max-w-7xl mx-auto sm:px-6 lg:px-8"><div style="position: fixed; z-index: 9999; inset: 16px; pointer-events: none;"></div><h1 class="text-center items-center mx-auto items-center mb-4 text-xl grow font-bold" style="font-size: 2em;">Custom Wordle</h1><div class="flex w-80 mx-auto items-center mb-4 pl-6 pr-5"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true" class="h-7 w-7 cursor-pointer" data-darkreader-inline-stroke="" style="--darkreader-inline-stroke: currentColor;"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg><button class="px-2.5 py-1.5 border border-transparent text-xs font-medium text-indigo-700 bg-indigo-100 transition duration-300 hover:bg-indigo-200 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500 transform hover:-translate-y-0.5 hover:scale-100" style="margin-inline: 5%; font-size: 1em; border-top-left-radius: 8px; border-top-right-radius: 8px; border-bottom-right-radius: 8px; border-bottom-left-radius: 8px; box-shadow: rgba(41, 80, 200, 0.55) 0px 3px 6px; --darkreader-inline-boxshadow: rgba(39, 66, 150, 0.55) 0px 3px 6px;" data-darkreader-inline-boxshadow="">Make your own wordle</button><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true" class="h-7 w-7 cursor-pointer" data-darkreader-inline-stroke="" style="--darkreader-inline-stroke: currentColor;"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"></path></svg></div><div class="pb-4"><div class="flex justify-center mb-1"><div class="border-solid border-2 flex items-center justify-center mx-0.5 text-2xl font-bold rounded column-width bg-white border-slate-200" style="width: 2.25rem; height: 2.25rem;"></div><div class="border-solid border-2 flex items-center justify-center mx-0.5 text-2xl font-bold rounded column-width bg-white border-slate-200" style="width: 2.25rem; height: 2.25rem;"></div><div class="border-solid border-2 flex items-center justify-center mx-0.5 text-2xl font-bold rounded column-width bg-white border-slate-200" style="width: 2.25rem; height: 2.25rem;"></div><div class="border-solid border-2 flex items-center justify-center mx-0.5 text-2xl font-bold rounded column-width bg-white border-slate-200" style="width: 2.25rem; height: 2.25rem;"></div><div class="border-solid border-2 flex items-center justify-center mx-0.5 text-2xl font-bold rounded column-width bg-white border-slate-200" style="width: 2.25rem; height: 2.25rem;"></div></div><div class="flex justify-center mb-1"><div class="border-solid border-2 flex items-center justify-center mx-0.5 text-2xl font-bold rounded column-width bg-white border-slate-200" style="width: 2.25rem; height: 2.25rem;"></div><div class="border-solid border-2 flex items-center justify-center mx-0.5 text-2xl font-bold rounded column-width bg-white border-slate-200" style="width: 2.25rem; height: 2.25rem;"></div><div class="border-solid border-2 flex items-center justify-center mx-0.5 text-2xl font-bold rounded column-width bg-white border-slate-200" style="width: 2.25rem; height: 2.25rem;"></div><div class="border-solid border-2 flex items-center justify-center mx-0.5 text-2xl font-bold rounded column-width bg-white border-slate-200" style="width: 2.25rem; height: 2.25rem;"></div><div class="border-solid border-2 flex items-center justify-center mx-0.5 text-2xl font-bold rounded column-width bg-white border-slate-200" style="width: 2.25rem; height: 2.25rem;"></div></div><div class="flex justify-center mb-1"><div class="border-solid border-2 flex items-center justify-center mx-0.5 text-2xl font-bold rounded column-width bg-white border-slate-200" style="width: 2.25rem; height: 2.25rem;"></div><div class="border-solid border-2 flex items-center justify-center mx-0.5 text-2xl font-bold rounded column-width bg-white border-slate-200" style="width: 2.25rem; height: 2.25rem;"></div><div class="border-solid border-2 flex items-center justify-center mx-0.5 text-2xl font-bold rounded column-width bg-white border-slate-200" style="width: 2.25rem; height: 2.25rem;"></div><div class="border-solid border-2 flex items-center justify-center mx-0.5 text-2xl font-bold rounded column-width bg-white border-slate-200" style="width: 2.25rem; height: 2.25rem;"></div><div class="border-solid border-2 flex items-center justify-center mx-0.5 text-2xl font-bold rounded column-width bg-white border-slate-200" style="width: 2.25rem; height: 2.25rem;"></div></div><div class="flex justify-center mb-1"><div class="border-solid border-2 flex items-center justify-center mx-0.5 text-2xl font-bold rounded column-width bg-white border-slate-200" style="width: 2.25rem; height: 2.25rem;"></div><div class="border-solid border-2 flex items-center justify-center mx-0.5 text-2xl font-bold rounded column-width bg-white border-slate-200" style="width: 2.25rem; height: 2.25rem;"></div><div class="border-solid border-2 flex items-center justify-center mx-0.5 text-2xl font-bold rounded column-width bg-white border-slate-200" style="width: 2.25rem; height: 2.25rem;"></div><div class="border-solid border-2 flex items-center justify-center mx-0.5 text-2xl font-bold rounded column-width bg-white border-slate-200" style="width: 2.25rem; height: 2.25rem;"></div><div class="border-solid border-2 flex items-center justify-center mx-0.5 text-2xl font-bold rounded column-width bg-white border-slate-200" style="width: 2.25rem; height: 2.25rem;"></div></div><div class="flex justify-center mb-1"><div class="border-solid border-2 flex items-center justify-center mx-0.5 text-2xl font-bold rounded column-width bg-white border-slate-200" style="width: 2.25rem; height: 2.25rem;"></div><div class="border-solid border-2 flex items-center justify-center mx-0.5 text-2xl font-bold rounded column-width bg-white border-slate-200" style="width: 2.25rem; height: 2.25rem;"></div><div class="border-solid border-2 flex items-center justify-center mx-0.5 text-2xl font-bold rounded column-width bg-white border-slate-200" style="width: 2.25rem; height: 2.25rem;"></div><div class="border-solid border-2 flex items-center justify-center mx-0.5 text-2xl font-bold rounded column-width bg-white border-slate-200" style="width: 2.25rem; height: 2.25rem;"></div><div class="border-solid border-2 flex items-center justify-center mx-0.5 text-2xl font-bold rounded column-width bg-white border-slate-200" style="width: 2.25rem; height: 2.25rem;"></div></div><div class="flex justify-center mb-1"><div class="border-solid border-2 flex items-center justify-center mx-0.5 text-2xl font-bold rounded column-width bg-white border-slate-200" style="width: 2.25rem; height: 2.25rem;"></div><div class="border-solid border-2 flex items-center justify-center mx-0.5 text-2xl font-bold rounded column-width bg-white border-slate-200" style="width: 2.25rem; height: 2.25rem;"></div><div class="border-solid border-2 flex items-center justify-center mx-0.5 text-2xl font-bold rounded column-width bg-white border-slate-200" style="width: 2.25rem; height: 2.25rem;"></div><div class="border-solid border-2 flex items-center justify-center mx-0.5 text-2xl font-bold rounded column-width bg-white border-slate-200" style="width: 2.25rem; height: 2.25rem;"></div><div class="border-solid border-2 flex items-center justify-center mx-0.5 text-2xl font-bold rounded column-width bg-white border-slate-200" style="width: 2.25rem; height: 2.25rem;"></div></div></div><div><div class="flex justify-center mb-1 mx-0.5"><div class="flex items-center justify-center rounded mx-0.5 text-s font-bold cursor-pointer bg-slate-400 hover:bg-slate-500 active:bg-slate-600" style="width: 40px; height: 56px; -webkit-user-select: none;">Q</div><div class="flex items-center justify-center rounded mx-0.5 text-s font-bold cursor-pointer bg-slate-400 hover:bg-slate-500 active:bg-slate-600" style="width: 40px; height: 56px; -webkit-user-select: none;">W</div><div class="flex items-center justify-center rounded mx-0.5 text-s font-bold cursor-pointer bg-slate-400 hover:bg-slate-500 active:bg-slate-600" style="width: 40px; height: 56px; -webkit-user-select: none;">E</div><div class="flex items-center justify-center rounded mx-0.5 text-s font-bold cursor-pointer bg-slate-400 hover:bg-slate-500 active:bg-slate-600" style="width: 40px; height: 56px; -webkit-user-select: none;">R</div><div class="flex items-center justify-center rounded mx-0.5 text-s font-bold cursor-pointer bg-slate-400 hover:bg-slate-500 active:bg-slate-600" style="width: 40px; height: 56px; -webkit-user-select: none;">T</div><div class="flex items-center justify-center rounded mx-0.5 text-s font-bold cursor-pointer bg-slate-400 hover:bg-slate-500 active:bg-slate-600" style="width: 40px; height: 56px; -webkit-user-select: none;">Y</div><div class="flex items-center justify-center rounded mx-0.5 text-s font-bold cursor-pointer bg-slate-400 hover:bg-slate-500 active:bg-slate-600" style="width: 40px; height: 56px; -webkit-user-select: none;">U</div><div class="flex items-center justify-center rounded mx-0.5 text-s font-bold cursor-pointer bg-slate-400 hover:bg-slate-500 active:bg-slate-600" style="width: 40px; height: 56px; -webkit-user-select: none;">I</div><div class="flex items-center justify-center rounded mx-0.5 text-s font-bold cursor-pointer bg-slate-400 hover:bg-slate-500 active:bg-slate-600" style="width: 40px; height: 56px; -webkit-user-select: none;">O</div><div class="flex items-center justify-center rounded mx-0.5 text-s font-bold cursor-pointer bg-slate-400 hover:bg-slate-500 active:bg-slate-600" style="width: 40px; height: 56px; -webkit-user-select: none;">P</div></div><div class="flex justify-center mb-1 mx-3"><div class="flex items-center justify-center rounded mx-0.5 text-s font-bold cursor-pointer bg-slate-400 hover:bg-slate-500 active:bg-slate-600" style="width: 40px; height: 56px; -webkit-user-select: none;">A</div><div class="flex items-center justify-center rounded mx-0.5 text-s font-bold cursor-pointer bg-slate-400 hover:bg-slate-500 active:bg-slate-600" style="width: 40px; height: 56px; -webkit-user-select: none;">S</div><div class="flex items-center justify-center rounded mx-0.5 text-s font-bold cursor-pointer bg-slate-400 hover:bg-slate-500 active:bg-slate-600" style="width: 40px; height: 56px; -webkit-user-select: none;">D</div><div class="flex items-center justify-center rounded mx-0.5 text-s font-bold cursor-pointer bg-slate-400 hover:bg-slate-500 active:bg-slate-600" style="width: 40px; height: 56px; -webkit-user-select: none;">F</div><div class="flex items-center justify-center rounded mx-0.5 text-s font-bold cursor-pointer bg-slate-400 hover:bg-slate-500 active:bg-slate-600" style="width: 40px; height: 56px; -webkit-user-select: none;">G</div><div class="flex items-center justify-center rounded mx-0.5 text-s font-bold cursor-pointer bg-slate-400 hover:bg-slate-500 active:bg-slate-600" style="width: 40px; height: 56px; -webkit-user-select: none;">H</div><div class="flex items-center justify-center rounded mx-0.5 text-s font-bold cursor-pointer bg-slate-400 hover:bg-slate-500 active:bg-slate-600" style="width: 40px; height: 56px; -webkit-user-select: none;">J</div><div class="flex items-center justify-center rounded mx-0.5 text-s font-bold cursor-pointer bg-slate-400 hover:bg-slate-500 active:bg-slate-600" style="width: 40px; height: 56px; -webkit-user-select: none;">K</div><div class="flex items-center justify-center rounded mx-0.5 text-s font-bold cursor-pointer bg-slate-400 hover:bg-slate-500 active:bg-slate-600" style="width: 40px; height: 56px; -webkit-user-select: none;">L</div></div><div class="flex justify-center mx-0.5"><div class="flex items-center justify-center rounded mx-0.5 text-s font-bold cursor-pointer bg-slate-400 hover:bg-slate-500 active:bg-slate-600" style="width: 65.4px; height: 56px; -webkit-user-select: none;">Enter</div><div class="flex items-center justify-center rounded mx-0.5 text-s font-bold cursor-pointer bg-slate-400 hover:bg-slate-500 active:bg-slate-600" style="width: 40px; height: 56px; -webkit-user-select: none;">Z</div><div class="flex items-center justify-center rounded mx-0.5 text-s font-bold cursor-pointer bg-slate-400 hover:bg-slate-500 active:bg-slate-600" style="width: 40px; height: 56px; -webkit-user-select: none;">X</div><div class="flex items-center justify-center rounded mx-0.5 text-s font-bold cursor-pointer bg-slate-400 hover:bg-slate-500 active:bg-slate-600" style="width: 40px; height: 56px; -webkit-user-select: none;">C</div><div class="flex items-center justify-center rounded mx-0.5 text-s font-bold cursor-pointer bg-slate-400 hover:bg-slate-500 active:bg-slate-600" style="width: 40px; height: 56px; -webkit-user-select: none;">V</div><div class="flex items-center justify-center rounded mx-0.5 text-s font-bold cursor-pointer bg-slate-400 hover:bg-slate-500 active:bg-slate-600" style="width: 40px; height: 56px; -webkit-user-select: none;">B</div><div class="flex items-center justify-center rounded mx-0.5 text-s font-bold cursor-pointer bg-slate-400 hover:bg-slate-500 active:bg-slate-600" style="width: 40px; height: 56px; -webkit-user-select: none;">N</div><div class="flex items-center justify-center rounded mx-0.5 text-s font-bold cursor-pointer bg-slate-400 hover:bg-slate-500 active:bg-slate-600" style="width: 40px; height: 56px; -webkit-user-select: none;">M</div><div class="flex items-center justify-center rounded mx-0.5 text-s font-bold cursor-pointer bg-slate-400 hover:bg-slate-500 active:bg-slate-600" style="width: 65.4px; height: 56px; -webkit-user-select: none;">Delete</div></div></div></div></div><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-SFVW8PEGBH"></script></body></html>
